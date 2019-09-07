@@ -1,2 +1,2 @@
 # Graph-bed
-小马帝自己的markdown图床
+让自己的markdown飞起来！
